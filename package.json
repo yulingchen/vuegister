@@ -40,6 +40,6 @@
     "acorn": "^4.0.4",
     "htmlparser2": "^3.9.2",
     "source-map": "^0.5.6",
-    "source-map-support": "^0.4.8"
+    "source-map-support": "^0.4.12"
   }
 }
